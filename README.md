@@ -8,19 +8,22 @@ ___
 
 ### Objetivo
 
-Modelar uma folha de Nota Fiscal.
+Modelar uma folha de Nota Fiscal até a Terceira Forma Normal.
 ___
  
 ### Requisitos
 
 * Workbench
-* Editor de Texto
+* DIA 0.97
 * SQL
 ___
 
 ### Conteúdo Principal
 
-* []()
+* [Modelo NF]()
+* [DER]()
+* [MER]()
+* [Script]()
 ___
 
 ### Gerando a Base de Dados
